@@ -10,12 +10,12 @@ d:I[4911,[],"AsyncMetadataOutlet"]
 f:I[9665,[],"ViewportBoundary"]
 11:I[6614,[],""]
 :HL["/_next/static/css/92b53c90e215dddf.css","style"]
-0:{"P":null,"b":"G6aiy0mJBti2PrlqVZ9_x","p":"","c":["","fasteqa",""],"i":false,"f":[[["",{"children":[["slug","fasteqa","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/92b53c90e215dddf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/robot_favicon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://google-fonts.jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://google-fonts.jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"style","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}],["$","link",null,{"rel":"stylesheet","id":"gfonts-css","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap","media":"print"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function(){\n                var l = document.getElementById('gfonts-css');\n                if (!l) return;\n                if (l.media !== 'all') {\n                  l.addEventListener('load', function(){ try { l.media = 'all'; } catch(e){} });\n                }\n              })();\n            "}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"FAST-EQA","type":"page","target":"fasteqa","href":"/fasteqa"},{"title":"CV","type":"page","target":"cv","href":"/cv"}],"siteTitle":"Nirav Savaliya","enableOnePageMode":false}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{"lastUpdated":"March, 2026"}]]}]}]]}]]}],{"children":[["slug","fasteqa","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","NsikhBkt4GaTVBvlclrfj",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"hF4q7knFzVMPcmbzD_IC1","p":"","c":["","fasteqa",""],"i":false,"f":[[["",{"children":[["slug","fasteqa","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/92b53c90e215dddf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/robot_favicon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://google-fonts.jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://google-fonts.jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"style","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}],["$","link",null,{"rel":"stylesheet","id":"gfonts-css","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap","media":"print"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function(){\n                var l = document.getElementById('gfonts-css');\n                if (!l) return;\n                if (l.media !== 'all') {\n                  l.addEventListener('load', function(){ try { l.media = 'all'; } catch(e){} });\n                }\n              })();\n            "}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"FAST-EQA","type":"page","target":"fasteqa","href":"/fasteqa"},{"title":"CV","type":"page","target":"cv","href":"/cv"}],"siteTitle":"Nirav Savaliya","enableOnePageMode":false}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{"lastUpdated":"March, 2026"}]]}]}]]}]]}],{"children":[["slug","fasteqa","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","AMp5ANpZV931ibg_XVy8O",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
 12:"$Sreact.suspense"
 13:I[4911,[],"AsyncMetadata"]
 15:I[4059,["17","static/chunks/17-9c04c9413a9f9f1f.js","178","static/chunks/178-595a94b9af1e67b5.js","748","static/chunks/748-b0753eeaf12cb586.js","182","static/chunks/app/%5Bslug%5D/page-3a8b456bd57b11b9.js"],"default"]
 9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
-16:T15e5,# FAST-EQA: Efficient Embodied Question Answering with Global and Local Region Relevancy
+16:Tf06,# FAST-EQA: Efficient Embodied Question Answering with Global and Local Region Relevancy
 
 **Authors:** Haochen Zhang, Nirav Savaliya, Faizan Siddiqui, Enna Sachdeva  
 **Affiliation:** Carnegie Mellon University & Honda Research Institute USA  
@@ -47,7 +47,7 @@ The result is a faster, more accurate embodied QA agent that scales to long-hori
 
 ## Method Overview
 
-![Framework Overview](images/framework.png)
+![Framework Overview](papers/fasteqa_2.png)
 
 FAST-EQA operates in four main stages:
 
@@ -70,7 +70,7 @@ This decomposition guides exploration from the start.
 
 ### 2. Global Relevance Exploration (GRE)
 
-![Global Exploration](images/global_exploration.png)
+![Global Exploration](papers/fasteqa_3.png)
 
 Instead of standard frontier exploration, FAST-EQA prioritizes semantically meaningful frontiers.
 
@@ -87,8 +87,6 @@ This allows the agent to efficiently reach important areas without exhaustively 
 
 ### 3. Local Relevance Exploration (LRE)
 
-![Local Exploration](images/local_exploration.png)
-
 Once inside a relevant region:
 
 - The agent collects panoramic observations  
@@ -101,7 +99,7 @@ This prevents unnecessary wandering and reduces redundant observations.
 
 ### 4. Bounded Visual Memory
 
-![Visual Memory](images/memory.png)
+![Visual Memory](papers/fasteqa_4.png)
 
 To maintain efficiency, FAST-EQA uses a fixed-size memory per target.
 
@@ -123,8 +121,6 @@ This ensures:
 
 ### 5. Chain-of-Thought Answering
 
-![Reasoning](images/reasoning.png)
-
 Once exploration completes:
 
 - The stored memory is passed to a large vision-language model  
@@ -141,49 +137,11 @@ This improves:
 
 ## Experimental Results
 
-FAST-EQA is evaluated across multiple embodied QA benchmarks.
+![Results](papers/fasteqa_5.png)
 
-### HM-EQA
+![Inference Speed](papers/fasteqa_6.png)
 
-- Success Rate: 69.2%  
-- Outperforms previous frontier-based and memory-based methods  
-
-### EXPRESS-Bench
-
-- LLM Score: 68.7  
-- Strong improvements in semantic reasoning quality  
-
-### OpenEQA (A-EQA) & MT-HM3D
-
-- Competitive or state-of-the-art performance  
-- Strong generalization across environments  
-
----
-
-## Inference Efficiency
-
-| Method        | Avg Step Time (s) |
-|--------------|------------------|
-| FAST-EQA     | 2.54 ± 0.05       |
-| Fine-EQA     | 2.94 ± 0.14       |
-| Explore-EQA  | 4.90 ± 0.26       |
-| Memory-EQA   | ~15               |
-
-FAST-EQA achieves both higher accuracy and lower, more stable inference time.
-
----
-
-## Ablation Studies
-
-Removing key components leads to performance drops:
-
-- Without semantic frontier detection → significant success rate drop  
-- Without dual scoring (CLIP + VLM) → noisier memory  
-- Without Chain-of-Thought → weaker multi-target reasoning  
-
-This confirms that exploration, memory filtering, and reasoning must work together.
-
----
+![Ablation](papers/fasteqa_7.png)
 
 ## Key Insights
 
@@ -192,38 +150,11 @@ This confirms that exploration, memory filtering, and reasoning must work togeth
 - Multi-target EQA requires structured reasoning  
 - Combining semantic mapping with VLMs enables scalable embodied intelligence  
 
----
-
-## Limitations
-
-- Dependent on spatial reasoning capabilities of current VLMs  
-- Occasional variance in LLM stopping decisions  
-- Still requires multiple VLM calls during exploration  
-
-Future work includes:
-
-- Latent visual memory representations  
-- More efficient semantic mapping  
-- Improved region grounding  
-
----
-
-## Conclusion
-
-FAST-EQA presents a practical and scalable solution to embodied question answering by combining:
-
-- Global semantic exploration  
-- Local target refinement  
-- Compact visual memory  
-- Chain-of-Thought reasoning  
-
-It advances the state of the art in both accuracy and efficiency, bringing embodied QA closer to real-world robotic deployment.
-
----
 
 ## Links
 
 **Paper:** [https://arxiv.org/abs/2602.15813](https://arxiv.org/abs/2602.15813)
+
 **Code:** (Coming Soon)7:["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[false,["$","$L15",null,{"config":{"type":"text","title":"FAST-EQA","source":"fasteqa.md"},"content":"$16"}],false]}]
 c:null
 10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
