@@ -15,11 +15,11 @@ f:I[9665,[],"ViewportBoundary"]
 13:I[4911,[],"AsyncMetadata"]
 15:I[4059,["17","static/chunks/17-9c04c9413a9f9f1f.js","178","static/chunks/178-595a94b9af1e67b5.js","748","static/chunks/748-d9b8f9bf6e722cf6.js","182","static/chunks/app/%5Bslug%5D/page-3a8b456bd57b11b9.js"],"default"]
 9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
-16:T1034,# Efficient Embodied Question Answering with Global and Local Region Relevancy
+16:T104c,# Efficient Embodied Question Answering with Global and Local Region Relevancy
 
 ### Haochen Zhang*, Nirav Savaliya, Faizan Siddiqui, Enna Sachdeva  
 ### Honda Research Institute USA, *Carnegie Mellon University  
-### 📄 [Paper](https://arxiv.org/abs/2602.15813)&nbsp;&nbsp;&nbsp;&nbsp;💻[Code](astronirav.github.io/fasteqa) 
+### 📄 [Paper](https://arxiv.org/abs/2602.15813)&nbsp;&nbsp;&nbsp;&nbsp;💻[Code](https://github.com/honda-research-institute/FAST-EQA) 
 
 ---
 
